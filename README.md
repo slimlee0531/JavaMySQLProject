@@ -17,7 +17,7 @@
 
 
 <img width="1220" height="813" alt="image" src="https://github.com/user-attachments/assets/61a0d9b8-6d89-48e6-b0f2-4c248d2b0010" />
->>> *图二：按照学生的学院属性查询*
+>>> *图二:按照学生的学院属性查询*
 
 
 
